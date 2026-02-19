@@ -1,3 +1,11 @@
+//Declara:
+//int a[3];
+//int b[3];
+//int c[3];
+
+//1. Imprime todas las direcciones.
+//2. ¿Están juntos en memoria?
+//3. ¿De qué depende?
 #include <stdio.h> 
 
 int main() {
