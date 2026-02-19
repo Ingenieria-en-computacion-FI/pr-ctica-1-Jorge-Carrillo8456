@@ -1,3 +1,9 @@
+//Declara:
+//int a[6];
+
+//1. Imprime direcciones de todos los elementos.
+//2. Calcula diferencia entre direcciones consecutivas.
+//3. Escribe fórmula general para dirección de a[i].
 #include <stdio.h> 
 
 int main() {
